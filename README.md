@@ -85,14 +85,6 @@ The following Python libraries were used throughout the certification: <br>
 </p>  
 
 
-🏆 Certificates
-
-To verify the certificates, click the images to follow the links.
-
- <p align="middle">
-  <a href="https://coursera.org/share/6b9718f79369deb9885daaebecb6fcca"><img src="https://user-images.githubusercontent.com/110245477/218280654-168be872-6015-4e4c-90fd-6295e8456987.png" height="430"></a>
-  <a href="https://www.credly.com/badges/6343ee63-61f5-47e7-ba3d-8c6c3373e8c5/public_url"><img src="https://user-images.githubusercontent.com/110245477/218280631-08f32781-77f2-483c-9c37-3a0314a1e149.png" height="430"></a>
-</p>
 
 
 <img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Python Project for Data Science
